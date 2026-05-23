@@ -52,5 +52,16 @@
     bun
     docker-compose
 
+    # Networking Tools
+    tcpdump
+    wireshark
+    nmap
+    netcat
+    whois
+    traceroute
+    sslscan
+    postman
+    
+
   ];
 }
