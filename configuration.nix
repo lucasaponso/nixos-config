@@ -15,6 +15,7 @@
     ./modules/users.nix
     ./modules/virtualisation.nix
     ./modules/services.nix
+    ./modules/git.nix
   ];
 
   nixpkgs.config.allowUnfree = true;
